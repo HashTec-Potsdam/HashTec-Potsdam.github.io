@@ -1,5 +1,19 @@
 # Beautiful Jekyll
 
+Selbst du Seite installieren:
+
+
+
+```
+$ sudo apt-get update
+$ sudo apt-get install ruby ruby-dev make gcc
+$ sudo gem install github-pages bundler
+$ bundle install
+$ bundle exec jekyll serve --trace
+```
+
+---
+
 [![Donate](https://img.shields.io/badge/Donate-PayPal-green.svg)](https://www.paypal.me/daattali/20)
 [![Gem Version](https://badge.fury.io/rb/beautiful-jekyll-theme.svg)](https://badge.fury.io/rb/beautiful-jekyll-theme)
 
