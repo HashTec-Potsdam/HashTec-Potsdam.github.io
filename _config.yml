@@ -17,7 +17,7 @@ baseurl: ""
 title: "#tec"
 
 # Short description of your site
-description: "#tec - Jugendlab in der machBar"
+description: "Jugendlab in der machBar"
 
 # --- Navigation bar options --- #
 
@@ -99,7 +99,7 @@ share-links-active:
 
 # How to display the link to the website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "hashTEC-Potsdam.gitub.io"  # eg. "deanattali.com/beautiful-jekyll"
+url-pretty: "hashTEC-Potsdam.github.io"  # eg. "deanattali.com/beautiful-jekyll"
 
 # --- Misc --- #
 # Fill in your Disqus shortname (NOT the userid) if you want to support Disqus comments

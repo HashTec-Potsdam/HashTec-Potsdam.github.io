@@ -10,6 +10,8 @@ Es gibt Leute hier, die sich gern mit Smartphone, Webseiten, Apps, 3D-Druckern, 
 Du kannst an Projekten von anderen mitarbeiten oder eigen einbringen.
 Bring gern deine Freunde mit.
 
+![Über die Mailingliste](https://groups.google.com/forum/#!forum/hashtec) kannst du mit uns in Kontakt treten und mitreden.
+
 ## Wer macht alles mit?
 
 Die drei Leute sind meistens da, wenn #tec ist:
