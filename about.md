@@ -7,7 +7,7 @@ subtitle: Was ihr über uns wissen wollt.
 Das Treffen #tec ist ein regelmäßiges Treffen für Jugendliche ab 12 Jahren.
 Was ihr macht entscheidet ihr.
 Es gibt Leute hier, die sich gern mit Smartphone, Webseiten, Apps, 3D-Druckern, Lasercuttern und Selberbauen beschäftigen.
-Du kannst an Projekten von anderen mitarbeiten oder eigen einbringen.
+Du kannst an Projekten von anderen mitarbeiten oder an eigenen.
 Bring gern deine Freunde mit.
 
 ![Über die Mailingliste](https://groups.google.com/forum/#!forum/hashtec) kannst du mit uns in Kontakt treten und mitreden.
