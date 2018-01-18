@@ -7,7 +7,7 @@ gh-badge: [star, fork, follow]
 ---
 
 
-Wir treffen uns ba jetzt jeden Montag von 15:00 - 18:00 Uhr in der machBar.
+Wir treffen uns ab jetzt jeden Montag von 15:00 - 18:00 Uhr in der machBar.
 Am 15. Januar haben wir uns zum ersten Mal im freiLand in Potsdam getroffen, um in der machBar einen Rechner zu reparieren und diese Seite zu erstellen.
 
 Der Mac-Rechner hatte eine kaputte Festplatte und konnte deswegen nicht starten.
