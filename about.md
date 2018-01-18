@@ -10,7 +10,7 @@ Es gibt Leute hier, die sich gern mit Smartphone, Webseiten, Apps, 3D-Druckern, 
 Du kannst an Projekten von anderen mitarbeiten oder an eigenen.
 Bring gern deine Freunde mit.
 
-![Über die Mailingliste](https://groups.google.com/forum/#!forum/hashtec) kannst du mit uns in Kontakt treten und mitreden.
+[Über die Mailingliste](https://groups.google.com/forum/#!forum/hashtec) kannst du mit uns in Kontakt treten und mitreden.
 
 Treffen ist immer am Montag 15 bis 18 Uhr in der machBar im freiLand (Friedrich-Engels-Str. 22 (Nähe Hauptbahnhof) im Haus 5.
 
