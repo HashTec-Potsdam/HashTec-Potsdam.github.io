@@ -27,6 +27,7 @@ Allerdings schickt dieser viele Daten, ohne dass wir sie nutzen.
 Diesen haben wir von dem [Tutorial für die Infra-Rot-LED][tutorial].
 Diese macht es möglich, das Haus zu beleuchten, ohne die Vögel zu stören.
 
+Was noch aussteht ist eine dauerhafte Stromversorgung.
 
 
 [niccokunzmann/vogelhaus]: https://github.com/niccokunzmann/vogelhaus
