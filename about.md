@@ -19,9 +19,9 @@ Kommt gerne gemeinsam mit euren Freunden und Freundinnen vorbei!
 
 ## Wer organisiert #tec?
 
-- Martin Koll, von der machBar(www.machbar-potsdam.de), dem Potsdamer FabLab
-- Patric Kahler vom Chillout e.V. und Ostbloq(http://chillout-pdm.de/ostbloq/), dem Jugendtreff im Zentrum Ost
-- Nicco Kunzmann, vom Coder Dojo(https://coderdojopotsdam.github.io/)
+- Martin Koll, Maker von der [machBar](www.machbar-potsdam.de), dem Potsdamer FabLab
+- Patric Kahler, Sozialarbeiter vom [Chillout e.V. und Ostbloq](http://chillout-pdm.de/ostbloq/), dem Jugendtreff im Zentrum Ost
+- Nicco Kunzmann, Coder vom [Coder Dojo](https://coderdojopotsdam.github.io/)
 
 Unterstützt und ermöglicht wird #tec durch die "Ich kann was!" Initiative der Telekom Stiftung.
 
