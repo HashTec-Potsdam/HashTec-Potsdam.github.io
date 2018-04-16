@@ -1,42 +1,40 @@
 ---
 layout: page
 title: "Über #tec"
-subtitle: Was ihr über uns wissen wollt.
+subtitle: Was wir machen:
 ---
+#tec ist immer Montags 15 bis 17 Uhr in der machBar im freiLand (Friedrich-Engels-Str. 22 (Nähe Hauptbahnhof) im Haus 5.
 
-Das Treffen #tec ist ein regelmäßiges Treffen für Jugendliche ab 12 Jahren.
-Was ihr macht entscheidet ihr.
-Es gibt Leute hier, die sich gern mit Smartphone, Webseiten, Apps, 3D-Druckern, Lasercuttern und Selberbauen beschäftigen.
-Du kannst an Projekten von anderen mitarbeiten oder an eigenen.
-Bring gern deine Freunde mit.
+#tec ist ein regelmäßiger Treffpunkt für Jugendliche die sich für Technik interessieren.
+Was gemacht wird entscheiden wir gemeinsam.
+Es gibt viele Menschen, die sich gern mit Smartphones, Webseiten, Apps, 3D-Druckern, Linux, Lasercuttern, Programmierung, DIY-Geräten uvm. beschäftigen. Für euch alle steht das fabLab machBar kostenfrei offen und ihr könnt hier auch den Umgang mit Maschinen und Geräten wie 3D Druckern oder Lötkolben lernen sowie Materialien von uns nutzen.
+
+Du kannst dabei an Projekten von anderen mitarbeiten oder eigene anfangen.
+Kommt gerne gemeinsam mit euren Freunden und Freundinnen vorbei!
 
 [Über die Mailingliste](https://groups.google.com/forum/#!forum/hashtec) kannst du mit uns in Kontakt treten und mitreden.
 
-Treffen ist immer am Montag 15 bis 18 Uhr in der machBar im freiLand (Friedrich-Engels-Str. 22 (Nähe Hauptbahnhof) im Haus 5.
 
-## Wer macht alles mit?
 
-Die drei Leute sind meistens da, wenn #tec ist:
 
-- Martin Koll, der weiß, wie man die Maschinen bedient und wo alles ist
-- Patric Kahler vom Chillout e.V. und Ostbloq, der mitbastelt
-- Nicco Kunzmann, der gern am Computer Webseiten und Programme erstellt
+## Wer organisiert #tec?
 
-Ansonsten, gern herkommen, da sein und hier was reinschreiben.
+- Martin Koll, von der machBar(www.machbar-potsdam.de), dem Potsdamer FabLab
+- Patric Kahler vom Chillout e.V. und Ostbloq(http://chillout-pdm.de/ostbloq/), dem Jugendtreff im Zentrum Ost
+- Nicco Kunzmann, vom Coder Dojo(https://coderdojopotsdam.github.io/)
+
+Unterstützt und ermöglicht wird #tec durch die "Ich kann was!" Initiative der Telekom Stiftung.
 
 ## Impressum
 
+
 Wissenschaftsladen Potsdam e.V.
 
-freiLand  
+freiLand  (Haus 5)
 Friedrich-Engels-Strasse 22  
 14473 Potsdam
 
 Mail: info(at).wissenschaftsladen-potsdam.de  
 Web: www.wissenschaftsladen-potsdam.de  
-Tel: +49-0157-85585579  
-
-Haus1 im freiLand Office  
-Haus5 machBar
-
+Tel: +49-0331-27360832
 
