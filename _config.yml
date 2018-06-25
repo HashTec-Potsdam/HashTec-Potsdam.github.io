@@ -27,7 +27,9 @@ favicon: "/img/logo.svg"
 
 # List of links in the navigation bar
 navbar-links:
-  Termine: "https://pad.okfn.de/p/hashtec-termine"
+  Termine: 
+    - 'Themen': "https://pad.okfn.de/p/hashtec-termine"
+    - 'Anmeldung': "https://coderdojopotsdam.github.io/machbar/index.html"
   'Über #tec': "about"
   Kooperationen:
     - machBar: "https://machbar-potsdam.de/"
