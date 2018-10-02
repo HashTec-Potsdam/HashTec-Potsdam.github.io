@@ -25,7 +25,7 @@ Folgende Veranstaltungen organisieren wir:
 [Fr 19.10. 16:00 - 18:00 Uhr Blockchain und Biologie mit Cryptokitties](http://meet-and-code.de/de/de/event-show/1830)
 [Fr 19:10. 18:30 - 20:00 Uhr Crypto Mining 101](http://meet-and-code.de/de/de/event-show/1833)
 
-Weiter finden im HPI das CoderDojo am Samstag den 6. und 20.10. statt und am Sonntag den 14.10. im Rahmen des Potsdamer Eltern Medientags im Treffpunkt Freizeit organisieren wir ein Angebot zum [3D Modellieren und drucken von 14:00 bis 18:00Uhr](http://meet-and-code.de/de/de/event-show/1200).
+Weiter finden im HPI das [CoderDojo am Samstag den 6. und 20.10.](http://meet-and-code.de/de/de/event-show/1692) statt und am Sonntag den 14.10. im Rahmen des Potsdamer Eltern Medientags im Treffpunkt Freizeit organisieren wir ein Angebot zum [3D Modellieren und drucken von 14:00 bis 18:00Uhr](http://meet-and-code.de/de/de/event-show/1200).
 
 Wenn ihr euch auch außerhalb der Codeweek mit den Themen beschäftigen oder in die Welt des hacking und making eintauchen wollt - kommt zu #TEC dem Jugendangebot der machBar, jeden Montag ab 15 Uhr.
 
