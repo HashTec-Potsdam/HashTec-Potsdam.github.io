@@ -3,7 +3,7 @@ layout: page
 title: "Über #tec"
 subtitle: Was wir machen:
 ---
-#tec ist immer Montags 15 bis 17 Uhr in der machBar im freiLand (Friedrich-Engels-Str. 22 (Nähe Hauptbahnhof) im Haus 5.
+#tec ist immer 15 bis 17 Uhr in der machBar im freiLand (Friedrich-Engels-Str. 22 (Nähe Hauptbahnhof) im Haus 5.
 
 #tec ist ein regelmäßiger Treffpunkt für Jugendliche die sich für Technik interessieren.
 Was gemacht wird entscheiden wir gemeinsam.
@@ -13,8 +13,7 @@ Du kannst dabei an Projekten von anderen mitarbeiten oder eigene anfangen.
 Kommt gerne gemeinsam mit euren Freunden und Freundinnen vorbei!
 
 [Über die Mailingliste](https://groups.google.com/forum/#!forum/hashtec) kannst du mit uns in Kontakt treten und mitreden.
-
-
+Um die Organisatoren zu erreichen, schreibe uns eine Mail an <a href="mailto:hashtec&#64;wissenschaftsladen-potsdam.de">hashtec&#64;wissenschaftsladen-potsdam.de</a>.
 
 
 ## Wer organisiert #tec?
