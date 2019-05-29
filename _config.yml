@@ -30,7 +30,7 @@ navbar-links:
   Termine: 
     - 'Datum & Uhrzeit': "https://coderdojopotsdam.github.io/#open-web-calendar"
     - 'Themen': "https://pad.okfn.de/p/hashtec-termine"
-    - 'Anmeldung': "mailto:hashtec@wissenschaftsladen-potsdam.de"
+    - 'Anmeldung': "about"
   'Über #tec': "about"
   Kooperationen:
     - machBar: "https://machbar-potsdam.de/"
